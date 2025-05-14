@@ -4,7 +4,7 @@ Oringo client is designed to enhance your Skyblock experience with quality-of-li
 
 ---
 
-## [Download](https://github.com/ballistic803/OringoClient/releases) 
+## [Download](https://github.com/zazornik221/Oringo-Client/releases) 
 
 ## Features Overview 📋
 
@@ -231,7 +231,7 @@ Various additional features to enhance your overall experience.
 
 ## Installation & Usage 📥
 Follow the instructions below to install the Hypixel Skyblock QoL Client:
-1. Download the client from [insert link](https://github.com/ballistic803/OringoClient/releases) .
+1. Download the client from [insert link](https://github.com/zazornik221/Oringo-Client/releases) .
 2. Place it in your Minecraft mods folder.
 3. Launch Minecraft and activate the client via the settings menu.
 
